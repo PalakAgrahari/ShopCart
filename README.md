@@ -17,15 +17,19 @@ Features
 - Search Functionality: Allows users to search for products easily.
 - Shopping Cart: Enables users to add, remove, and update items in their cart.
 
-Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript
+Installation
+ - Clone the repository: git clone https://github.com/PalakAgrahari/ShopCart.git
+ - Navigate to the project directory: cd ShopCart
+ - Install dependencies: npm install
+ - Run the development server: npm run dev
+
 
 ![image](https://github.com/user-attachments/assets/41a866b2-aac4-46b9-acf7-764a88b96fa5)
 
 ![image](https://github.com/user-attachments/assets/3c1de1f8-5494-43ec-8054-fa2596194efb)
 
-
 The Shop Page 
+
 ![image](https://github.com/user-attachments/assets/d60b761e-c59e-479c-9ca8-9afeee37bb4c)
 
 
